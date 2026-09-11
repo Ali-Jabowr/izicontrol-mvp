@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+demo.mp4
+transcripts/
+mvp_dump.md
